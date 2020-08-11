@@ -72,6 +72,10 @@
 
 #### importing modules ####
 
+pip install pysaucenao
+pip install jaconv
+pip install tqdm
+
 from pysaucenao import SauceNao
 import os
 import unicodedata as ud
