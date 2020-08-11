@@ -30,10 +30,12 @@ If you wish to use this script without an account, edit the sauce variable to re
 It is highly beneficial to register, so I encourage you to do so
   - Higher limits
 
+To use this script, open 'SauceNAO Artist Sorting.py' in your preferred Python editor before running it
 There are certain variables that you MUST modify for this script to run
 They are:
   - api
   - path
+
 
 
 # Credits 
